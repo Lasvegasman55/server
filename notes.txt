@@ -1,0 +1,16 @@
+1. Install virualenv
+      MAC  python3 -m pip Install virualenv
+      WIN - py -m pip install virtualenv
+      -- using pyton i want to use modulos
+      WIN  py -m venv venv
+      mac   python 3 -m venv venv
+
+     3 we need to laund the virtualenv
+      mac  source venv/bin/activate
+      win   venv\scripts\activate
+
+4.  we need to install flask - this is the server library
+
+WIN  
+      mac   python 3 -m venv venv
+py -m pip install flask
